@@ -1,5 +1,4 @@
-# This project is retired, archived, and no longer supported. You are welcome to continue to use and fork the repository.
-
+[![Build Status](https://jatinsanghvi.visualstudio.com/Trials/_apis/build/status/JatinSanghvi.ContosoAir?branchName=master)](https://jatinsanghvi.visualstudio.com/Trials/_build/latest?definitionId=3&branchName=master)
 
 # Microsoft.Github CI Demo
 
